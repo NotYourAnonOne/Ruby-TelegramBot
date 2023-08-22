@@ -38,4 +38,9 @@ To use this bot, follow these steps:
 Contributions to this project are welcome. Feel free to make any improvements or add more features to enhance the bot's usability.
 
 Happy botting!
-NotYourAnonOne!
+
+## License
+This project is licensed under the MIT License.
+
+© Copyright [2023] NotYourAnonOne
+
