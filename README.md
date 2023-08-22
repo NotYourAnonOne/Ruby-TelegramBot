@@ -40,7 +40,7 @@ Contributions to this project are welcome. Feel free to make any improvements or
 Happy botting!
 
 ## License
-This project is licensed under the MIT License.
+
+This project is licensed under the [MIT License](LICENSE).
 
 © Copyright [2023] NotYourAnonOne
-
